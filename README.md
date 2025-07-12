@@ -56,7 +56,7 @@
 
 1. **Compile the code:**
 2. **Run the application:**
-3. 3. **Login Credentials (default):**
+3. **Login Credentials (default):**
 - Username: `user`
 - Password: `password123`
 
