@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
-
-
 #define MAX_ACCOUNTS 50
 #define MAX_TRANSACTIONS 1000
 #define MAX_CATEGORIES 20
